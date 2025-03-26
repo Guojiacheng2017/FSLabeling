@@ -31,7 +31,7 @@ FSLabeling is a labeling tool designed for creating and managing few-shot suppor
 
 1. Clone the repository:
      ```bash
-     git clone https://github.com/your-repo/FSLabeling.git
+     git clone https://github.com/Guojiacheng2017/FSLabeling.git
      cd FSLabeling
      ```
 
