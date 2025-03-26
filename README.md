@@ -2,6 +2,10 @@
 
 FSLabeling is a labeling tool designed for creating and managing few-shot support sets using a Gradio-based user interface. This tool simplifies the process of annotating images and generating support sets for few-shot learning tasks.
 
+## Web Interface
+![User Interface](./images/FSLabeling_Gradio.png)
+
+
 ## Features
 
 - **Image and Annotation Management**: 
